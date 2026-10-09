@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://syed-waleed-shah.github.io/sitemap.xml
